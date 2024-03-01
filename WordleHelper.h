@@ -153,7 +153,7 @@ public:
     }
 
     std::vector<std::string> suggest(){
-        // Optionally, your code here...
+        // suggest function
         return {"bring", "words", "close"};
     }
 
